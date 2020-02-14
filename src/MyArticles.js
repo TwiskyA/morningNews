@@ -22,7 +22,7 @@ class MyArticles extends Component {
       title: title,
       content: content
     });
-    alert("on écrase pas mon code !");
+    alert("on écrase mon code !");
     console.log("test");
     alert("error");
   };
