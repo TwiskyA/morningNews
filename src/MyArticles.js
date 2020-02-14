@@ -7,7 +7,7 @@ const { Meta } = Card;
 
 
 class MyArticles extends Component {
-  console.log("toto");
+  console.log("tata");
 
   constructor(props) {
     super(props);
